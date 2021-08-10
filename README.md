@@ -9,3 +9,7 @@
 ### Usage
 
 WIP. This project is intended to be a proof-of-concept for publishing NodeJS/JavaScript based community extensions to NPM automatically using GitHub Actions.
+
+### References:
+
+This project uses https://github.com/bpmn-io/bpmn-js-examples/tree/master/bundling as a reference for building a sample JS app to test these workflows!
