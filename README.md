@@ -4,8 +4,8 @@
 
 # Camunda Community Hub NodeJS GitHub Action
 
-## Welcome! This project is being worked on as a part of the Camunda Summer Hackdays 2021 event. It is intended to be a proof-of-concept for publishing NodeJS/JavaScript based extensions to NPM automatically using GitHub Actions.
+## Welcome! This project is being worked on as a part of the Camunda Summer Hackdays 2021 event. 
 
 ### Usage
 
-TODO
+WIP. This project is intended to be a proof-of-concept for publishing NodeJS/JavaScript based community extensions to NPM automatically using GitHub Actions.
